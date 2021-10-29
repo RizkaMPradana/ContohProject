@@ -1,5 +1,6 @@
 <?php
 
+//////hanya sebuah contoh php untuk mengisi project git
 $nama = "Nama : Rizka Muhamad Pradana";
 $nim = "NIM : C1983207008";
 $prod = "Prodi : PTI";
